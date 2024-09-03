@@ -1,2 +1,2 @@
 # Sternberg_EEG_AI
-Master Thesis
+Decoding working memory from EEG signals
